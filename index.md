@@ -3,3 +3,9 @@
 ##### fifth level
 
 Hoping to make money ![Hundred dollar bills](https://cdn.mises.org/styles/social_media/s3/social-media/money1.jpg)
+
+``` javascript
+for (var Var1 = 0; Var1 < 10; Var1++)
+    print "Var1 = " & Var1;
+```
+
